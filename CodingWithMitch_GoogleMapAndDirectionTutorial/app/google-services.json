@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696281433268",
+    "project_id": "mapresearch-29752",
+    "storage_bucket": "mapresearch-29752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696281433268:android:4fada0931dff2d2fcbc3e1",
+        "android_client_info": {
+          "package_name": "com.rasyidcode.codingwithmitch_googlemapanddirectiontutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696281433268-p4vdbccg6htmrujtpnl6h10h7mj5f5re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1RqLVbQUGGQpeGU08t10abuugghKNBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696281433268-p4vdbccg6htmrujtpnl6h10h7mj5f5re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
